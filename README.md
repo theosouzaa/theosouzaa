@@ -9,7 +9,8 @@
 ---
 
 📫 **Como me encontrar:**
-- [E-mail](theo.d.souza@aluno.senai.br)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:theo.d.souza@aluno.senai.br)
 
 <p align="left">
     <a href="https://github.com/theosouzaa">
